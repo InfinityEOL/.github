@@ -10,9 +10,9 @@ Welcome to Infinity Development, where ideas turn into solutions and boundaries 
 ### 🌐 Projects
 We take pride in delivering top-notch projects that make a difference:
 
-Infinity List - https://infinitybots.gg
-NetSocial - https://netsocial.app
-CordX - https://cordximg.host
+- Infinity List - https://infinitybots.gg
+- NetSocial - https://netsocial.app
+- CordX - https://cordximg.host
 
 ### 🤝 Join Us
 We’re always on the lookout for talented individuals passionate about technology and creativity. Let’s collaborate!
