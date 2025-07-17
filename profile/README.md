@@ -1,38 +1,31 @@
-## Welcome to Infinity Development
-🚀 Innovating Without Limits | Empowering Your Digital Vision
+<h1 align="center">🪐 infinityeol</h1>
+<p align="center"><i>Where Infinity List projects go when they reach their final form.</i></p>
 
-### 🖥️ Who We Are
-We are Infinity Development, a team of passionate technologists, designers, and innovators dedicated to turning your ideas into cutting-edge solutions. Whether you're a startup, a growing enterprise, or an industry leader, we deliver transformative results.
+---
 
-### 🎯 Our Mission
-To push the boundaries of innovation, create user-centric solutions, and build a future driven by technology and creativity.
+## 📦 About
 
-### 🛠️ What We Offer
-- 💻 Custom Software Development
-- 📱 Web & Mobile Applications
-- ☁️ Cloud Integration Services
-- 🎨 UI/UX Design
+Welcome to **infinityeol** the official archive of deprecated, retired, or legacy repositories from the [Infinity List](https://github.com/InfinityBotList) ecosystem.
 
-🌟 Our Values
-- 💡 **Innovation First**: Redefining possibilities every day.
-- 👥 **Collaboration**: Partnering with clients to build meaningful solutions.
-- 📈 **Excellence**: Striving for perfection in every line of code.
+This org exists to preserve the history of our tooling, experiments, and services that are no longer in active development but may still be useful for:
 
+- ✍️ Reference
+- 🛠️ Migration history
+- 🧪 Learning from the past
+- ⚰️ Laughing at cursed old code
 
-### 🏆 Featured Projects
-- 🚀 Vaultify - A cutting-edge password manager redefining online security.
-- 🌐 NetSocial - Empowering communities to be who they want to be.
-- 📲 CordX - Experience the next generation of simplicity for all your digital moments.
+---
 
-Check out our [portfolio](https://infinitydevs.ca) for more!
+## 📝 Policy
 
-### 🤝 Let’s Build Together!
-We’re always seeking new challenges and opportunities to collaborate. Whether it’s crafting bespoke software or scaling your next big idea, Infinity Development has you covered.
+These repositories are:
+- ❄️ **Frozen** — no active maintenance
+- 💡 **Informational** — for learning or documentation
+- 🔒 **Preserved as-is** — security issues will not be patched
 
-#### 📫 Contact Us
-- 🌐 Website: [infinitydevs.ca](https://infinitydevs.ca)
-- 📧 Email: [hey@infinitydevs.ca](mailto:hey@infinitydevs.ca)
-- 📱 Twitter/X: [@HeyInfinityDevs](twitter.com/HeyInfinityDevs)
+> [!CAUTION]
+> ⚠️ These repositories are **not production ready**, likely out of date, and frozen in time. Use them for reference only **you break it, you bought it.** Infinity List makes no guarantees about the usability, stability, or sanity of the code archived here. Use at your own risk and don’t force push to main. Ever.
 
-### ✨ Stay Connected
-Hit the ⭐️ button above to follow our journey and stay updated on our latest projects!
+---
+
+<p align="center"><i>“Infinity never ends. But some repos should.”</i></p>
